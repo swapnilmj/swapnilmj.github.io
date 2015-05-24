@@ -86,7 +86,8 @@ body {
 }
 
 .title {
-    color: white;
+    /*#color: white;*/
+    color: #E6ECF2;
 }
 
 /* ==============
