@@ -8,6 +8,21 @@
     <language>en</language>
     <lastBuildDate>Thu, 28 Sep 2023 00:45:07 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Uses</title>
+      <link>/uses/</link>
+      <pubDate>Thu, 28 Sep 2023 19:33:12 +0530</pubDate>
+      
+      <guid>/uses/</guid>
+      <description>I use both, Linux and Windows+WSL.
+Preferred Instant Messenger / Chat
+Signal Search Engine
+Brave search Google Browsers
+Brave Firefox w3m Editor
+Neovim Notepad++ (for minor stuff) Desktop Environment
+i3 </description>
+    </item>
+    
+    <item>
       <title>Software Development Skills</title>
       <link>/posts/software-engg-skills/</link>
       <pubDate>Thu, 28 Sep 2023 00:45:07 +0530</pubDate>
@@ -15,6 +30,17 @@
       <guid>/posts/software-engg-skills/</guid>
       <description>I feel there is more to being a good software enginner than knowing the programming language (and DB/UI) alone. The other ones being (in no particular order):
 Thinking in abstractions. Finding patterns. Taking a step backwards and looking at the bigger picture. Clarity of thought. Knowing the business purpose of the feature/change request. Good written communication. Knowing the developer tools well. Using the (right) developer tools. Curiosity. Identifying what assumptions to verify (specially while debugging).</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Thu, 28 Sep 2023 00:35:24 +0530</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Web-VQD (A Visual SQL Query Builder) A web-based code-generator utility for visually designing SQL SELECT queries. I used to work on MS Access and was pretty impressed by the drag-n-drop query builder which it had. I couldn&amp;rsquo;t find a similar tool for MySQL. Hence, I tried building this.
+Stack:
+Backbone.js PHP MySQL Demo</description>
     </item>
     
     
